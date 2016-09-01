@@ -1,0 +1,10 @@
+#ab{
+	/*
+	border: 2px solid red;
+	border-left: 8px dotted green;
+	border-right-width: 1px;
+	border-top-style: outset;*/
+	border-bottom-color: green;	
+	border-bottom-style: solid;
+	border-bottom-width: 3px;	
+}

@@ -1,0 +1,20 @@
+div{
+	border: 1px solid red;
+	color: red;
+}
+
+p{
+	border: 1px solid blue;
+	color: blue;
+}
+
+#dps{
+	border: 1px solid red;
+	padding: 5px;
+	color: green;
+}
+
+#dpss{
+	border: 1px solid blue;
+	color: red;
+}

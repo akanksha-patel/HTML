@@ -1,0 +1,70 @@
+/*----- Case 5: ------*/
+/*
+.abc{
+	color: green;
+    background-color: red;
+	border: 1px solid green;
+	padding: 2px;
+}
+
+#a1{
+	border-radius: 5px;
+}
+
+#a2{
+	background-color: yellow;
+}
+*/
+
+/*----- Case 4: ------*/
+/*
+span{
+	color: green;
+    background-color: yellow;
+	border: 1px solid green;
+	padding: 2px;
+}*/
+
+
+/*----- Case 3: ------*/
+/*
+.abc{
+	color: green;
+    background-color: red;
+	border: 1px solid green;
+	padding: 2px;
+}
+*/
+
+/*----- Case 2: ------*/
+/*
+#a1,#a2,#a3{
+	color: green;
+    background-color: red;
+	border: 1px solid green;
+	padding: 2px;
+}*/
+
+
+/*----- Case 1: ------*/
+/*
+#a1{
+	color: red;
+    background-color: yellow;
+	border: 1px solid red;
+	padding: 2px;
+}
+
+#a2{
+	color: red;
+    background-color: yellow;
+	border: 1px solid red;
+	padding: 2px;
+}
+
+#a3{
+	color: red;
+    background-color: yellow;
+	border: 1px solid red;
+	padding: 2px;
+}*/

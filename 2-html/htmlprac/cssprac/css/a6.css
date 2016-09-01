@@ -1,0 +1,37 @@
+#dv{
+	border: 1px solid red;
+}
+
+#pr{
+	border: 1px solid green;
+}
+
+#dps{
+	border: 1px solid blue;
+}
+
+#ds{
+	border: 1px solid blue;
+}
+
+#s{
+	border: 1px solid blue;
+}
+
+/* --- Case 3: ----*/
+/*
+div p span{
+	font-size: 24px;
+}*/
+
+/* --- Case 2: ----*/
+/*
+div span{
+	font-size: 24px;
+}*/
+
+/* --- Case 1: ----*/
+/*
+span{
+	font-size: 24px;
+}*/

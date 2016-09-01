@@ -1,0 +1,11 @@
+#ab{
+	/*font-family: "Comic Sans MS", cursive;*/
+	font-size: 42px;
+	/*color: rgb(0, 0, 255);*/
+	color: #333;
+	font-weight: bold;
+	/*font-style: italic;*/
+	/*font-variant: small-caps;*/
+	/*text-transform: capitalize;*/
+	text-decoration: line-through;
+}

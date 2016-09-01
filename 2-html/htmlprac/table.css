@@ -1,0 +1,43 @@
+
+table,tr,td{
+	border : 1px solid black;
+	width: 50%;
+	
+}
+
+body{
+	font-family: verdana;
+	font-size: 18px;
+	color: #777;
+}
+
+#register-box{
+	border: 1px solid #777;
+	margin: 50px auto;
+	width: 80%;
+	border-radius: 5px;
+}
+.text-name{
+	text-align: right;
+	width: 45%;
+	padding-top: 12px;
+}
+
+.colon{
+	width: 3%;
+	padding-top: 12px;
+}
+
+.text-fieldd{
+	width: 52%;
+	padding-top: 12px;
+}
+
+.text-field{
+	width : 18%;
+}
+td{
+
+	border: 1px solid #777;
+	border-collapse: collapse;
+}

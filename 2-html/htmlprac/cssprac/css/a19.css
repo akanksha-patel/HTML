@@ -1,0 +1,36 @@
+#main-blk{
+	width: 800px;
+	height: 600px;
+	border: 3px solid red;
+	position: relative;
+}
+
+#blk1{
+	background-color: red;
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	left: 100px;
+	top: 100px;
+	z-index: 1;
+}
+
+#blk2{
+	background-color: green;
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	left: 200px;
+	top: 200px;
+	z-index: 2;
+}
+
+#blk3{
+	background-color: blue;
+	width: 150px;
+	height: 150px;
+	position: absolute;
+	left:225px;
+	top: 150px;
+	z-index: 3;
+}
